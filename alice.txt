@@ -1,2 +1,5 @@
 feature1
-feature2
+feature2 fixed
+feature3
+feature5
+
